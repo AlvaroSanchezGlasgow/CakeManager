@@ -34,6 +34,10 @@
 			<center>Error <small> - Something was wrong!!</small></center>
 		</h1>
 	</div>
+	<br></br>
+<a href="${pageContext.request.contextPath}/" style="font-size:x-large;color:red;"><b>Click to get back to the previous page</b></a>
+<br></br>
+	
 <center>
  <table>
         <tr>
@@ -64,10 +68,6 @@
         </tr>-->
     </table>
 
-<br></br>
-
-<button type="button" class="btn-danger" onclick="${pageContext.request.contextPath}/">Click to back to the previous page</button>
-  
   
 </div>
 </body>
