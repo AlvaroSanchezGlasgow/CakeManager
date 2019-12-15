@@ -7,7 +7,7 @@ Welcome to the Cake Manager App. See detailed below the full instructions to ins
 - Open command line console in your local machine (CMD) and move to the project folder.
 - Run the app using maven "mvn spring-boot:run".
 - Open a browser and type: http://localhost:8012/
-- Log in your self with an Github account and enjoy!!
+- Log in yourself with a Github account and enjoy!!
 
 General Considerations for the app
 - The app is authenticated using auth2 against Github login.
